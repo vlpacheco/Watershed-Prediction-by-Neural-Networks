@@ -2,4 +2,4 @@
 
 
 ## Fluxogram 
-![Alt Text](Figures/Fluxograma.jpg) 
+![Alt Text](Figures/Fluxogram.jpg) 
