@@ -14,6 +14,14 @@ As inputs, we used the data from 3 Pluviometric Stations and 1 Fluviometric Stat
 ## Outputs
 As outputs, we predicted the final Outflow of the Watershed, based on the inputs.
 
+## Neural Networks
+The study was divided and predicted based on 4 different architectures, as the following: ANN, GRU, LSTM and RNN.
+
+## Lags
+We considered the
+
+## Forecasts
+
 ## Fluxogram 
 The workflow of this repository is shown in the following Fluxogram.
 ![Alt Text](Figures/Fluxogram.jpg) 
