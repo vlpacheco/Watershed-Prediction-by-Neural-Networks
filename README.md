@@ -42,3 +42,6 @@ parameters for each combination.
 |Neural Network|Selected Lag|Forecasts (t)|
 |---|--|------------------|
 |ANN|10|t + 0, ..., t + 10|
+|GRU|10|t + 0, ..., t + 10|
+|LSTM|30|t + 0, ..., t + 10|
+|RNN|10|t + 0, ..., t + 10|
