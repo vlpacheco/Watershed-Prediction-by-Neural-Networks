@@ -45,3 +45,7 @@ parameters for each combination.
 |GRU|10|t + 0, ..., t + 10|
 |LSTM|30|t + 0, ..., t + 10|
 |RNN|10|t + 0, ..., t + 10|
+
+## Results and discussion
+The results and discussion of this repository are under develpment by the authors, wich, in any case will be published and discussed
+under a scientific paper.
