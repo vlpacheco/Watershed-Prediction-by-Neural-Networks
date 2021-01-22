@@ -34,7 +34,7 @@ understand. the workflow.
 The workflow of this repository is shown in the following Fluxogram.
 ![Alt Text](Figures/Fluxogram.jpg) 
 
-## Summary of the parameters
+## Summary of parameters
 As we used several lags steps and forecasts, each Neural Network was optimized based on the best performance for the forecast 't + 0',
 by reaching the best proposed metrics. After that, the forecasts were conduceted: t + 0, ... , t + 10. The following table summurized the
 parameters for each combination.
