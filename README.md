@@ -30,7 +30,7 @@ The best rainfall model for us were set based on the evaluation of the metrics. 
 such as: RMSE, MAE and the timing of the training and fitting stage of each model. All the process could checked on the Fluxogram. to better 
 understand. the workflow.
 
-## Fluxogram 
+## Methodology-Fluxogram 
 The workflow of this repository is shown in the following Fluxogram.
 ![Alt Text](Figures/Fluxogram.jpg) 
 
